@@ -9,7 +9,7 @@ const Intro = () => {
                 <div className="title">Nonton Sepuasnya!</div>
                 <div className="title">Tanpa Takut kena BAN!</div>
                 <div className="introButton mt-4">
-                    <Button variant="dark">Lihat lebih lanjut!</Button>
+                    <Button variant="dark" href="#trending">Lihat lebih lanjut!</Button>
                 </div>
               </Col>
             </Row>

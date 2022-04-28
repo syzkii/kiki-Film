@@ -26,6 +26,12 @@
     background: url("../assets/images/card/girls-5775077_1920.jpg");
 }
 
+.characters {
+    height: auto;
+    background-size: cover;
+    background: url("../assets/images/card/movie-theater-4213751_1920.jpg");
+}
+
 .filmWrapper {
 }
 

@@ -4,6 +4,7 @@ import Intro from './components/Intro';
 import Trending from './components/Trending';
 
 import "./style/landingPage.css"
+import Characters from './components/Characters';
 
 function App() {
   return (
@@ -20,6 +21,13 @@ function App() {
         <Trending/>
       </div>
       {/* End Trending */}
+
+      {/* Char */}
+      <div className='characters'>
+        <Characters/>
+      </div>
+       {/* End Char */}
+
     </div>
   );
 }
