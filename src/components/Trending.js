@@ -17,6 +17,9 @@ const Trending = () => {
     return (
         <div>
           <Container>
+            <br />
+            <h1 className="text-white">Trending Movies</h1>
+            <br />
             <Row>
               <Col md={4} className="movieWrapper">
                 <Card className="filmImage">
